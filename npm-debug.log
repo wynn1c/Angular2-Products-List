@@ -1,0 +1,19 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'start' ]
+2 info using npm@3.8.0
+3 info using node@v0.10.36
+4 verbose config Skipping project config: /Users/coreywynn/.npmrc. (matches userconfig)
+5 verbose stack Error: ENOENT, open '/Users/coreywynn/package.json'
+6 verbose cwd /Users/coreywynn/Sites/prototypes/Angular2/Angular2-GettingStarted
+7 error Darwin 15.2.0
+8 error argv "node" "/usr/local/bin/npm" "start"
+9 error node v0.10.36
+10 error npm  v3.8.0
+11 error path /Users/coreywynn/package.json
+12 error code ENOENT
+13 error errno 34
+14 error enoent ENOENT, open '/Users/coreywynn/package.json'
+15 error enoent ENOENT, open '/Users/coreywynn/package.json'
+15 error enoent This is most likely not a problem with npm itself
+15 error enoent and is related to npm not being able to find a file.
+16 verbose exit [ 34, true ]
